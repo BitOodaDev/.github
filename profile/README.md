@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This organization will contain all the technical and development projects designed and engineered at BitOoda.
+
 <!--
 
 **Here are some ideas to get you started:**
